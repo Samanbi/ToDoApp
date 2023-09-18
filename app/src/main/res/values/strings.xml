@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="add">Add</string>
+    <string name="todo">Todo</string>
+    <string name="company_name">Tekma</string>
+    <string name="tekma">Tekma App</string>
+</resources>

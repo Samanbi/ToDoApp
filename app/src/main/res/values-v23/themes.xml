@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TodoApp" parent="Base.Theme.TodoApp">
+        <item name="android:statusBarColor">@color/color_background</item>
+        <item name="android:colorBackground">@color/color_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:textColor">@color/color_text</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+</resources>
